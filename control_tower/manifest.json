@@ -2,7 +2,7 @@
     "governedRegions": ["ap-southeast-1"],
     "organizationStructure": {
         "security": {
-            "name": "${security_ou_id}"
+            "name": "${security_ou_name}"
         }
     },
     "centralizedLogging": {

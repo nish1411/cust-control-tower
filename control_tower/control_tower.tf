@@ -3,7 +3,7 @@ data "template_file" "controltower_manifest" {
   vars = {
     log_archive_account_id = aws_organizations_account.log_archive.id
     audit_account_id       = aws_organizations_account.audit.id
-    security_ou_id         = aws_organizations_organizational_unit.security_ou.id
+    security_ou_name         = aws_organizations_organizational_unit.security_ou.name
   }
 }
 

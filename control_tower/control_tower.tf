@@ -7,11 +7,11 @@ data "template_file" "controltower_manifest" {
   }
 }
 
-#resource "aws_controltower_landing_zone" "example" {
-#  manifest_json = data.template_file.controltower_manifest.rendered
-#  version       = "3.3"
-#}
-#
+resource "aws_controltower_landing_zone" "example" {
+  manifest_json = data.template_file.controltower_manifest.rendered
+  version       = "3.3"
+}
+
 data "aws_organizations_organization" "main" {}
 
 resource "aws_organizations_account" "log_archive" {

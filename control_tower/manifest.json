@@ -1,5 +1,5 @@
 {
-    "governedRegions": ["us-west-2","us-west-1"],
+    "governedRegions": ["ap-southeast-1"],
     "organizationStructure": {
         "security": {
             "name": "${security_ou_id}"

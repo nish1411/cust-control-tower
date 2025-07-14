@@ -1,0 +1,18 @@
+{
+    "governedRegions": ["us-west-2","us-west-1"],
+    "organizationStructure": {
+        "security": {
+            "name": "${security_ou_id}"
+        }
+    },
+    "centralizedLogging": {
+         "accountId": "${log_archive_account_id}",
+         "enabled": true
+    },
+    "securityRoles": {
+         "accountId": "${audit_account_id}"
+    },
+    "accessManagement": {
+         "enabled": true
+    }
+ }

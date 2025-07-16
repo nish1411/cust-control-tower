@@ -61,4 +61,10 @@ Attached with relevant policies including:
 
 
 
-#Nishant Singh
+### Nishant Singh
+<small>Nishant Singh</small>
+### <small>Nishant Singh</small>
+---
+
+<small>© 2024 Nishant Singh. This project is proprietary and must not be copied, reused, or redistributed without written permission.</small>
+

@@ -70,7 +70,6 @@ Attached with relevant policies including:
 
 
 ###### Nishant Singh
-###### nishant.singh@softwareone.com
 
 
 

@@ -61,7 +61,16 @@ Attached with relevant policies including:
 
 
 
-######## Nishant Singh
-<small>Nishant Singh</small>
+
+
+
+
+
+
+
+
+###### Nishant Singh
+###### nishant.singh@softwareone.com
+
 
 
